@@ -1,8 +1,12 @@
-# Tardisgallifrey's base Forge/Minecraft Mod
+# Tardisgallifrey's Fuel Mod
 
-<p>This mod contains the minimal that is necessary to create 
-a 1.19 Minecraft mod from Forge.  The mod will run, but will not 
-do anything.  That functionality is for the future.</p>
+<p>This mod is minimal mod for a fuel source type in
+ Minecraft 1.19.  It is from Luke Graham's tutorial on 
+Minecraft mods. </p>
+
+<p> TODO: Create oil ore block, probably a shale, distrubute, 
+and use it to produce oil barrels.  Create a refinery to 
+make oil into gasoline, diesel, kerosene, and plastics.</p>
 
 <p>This mod is in accordance with Mojang, Microsoft, and Forge 
 licensing as well as my own use of the MIT license.</p>
