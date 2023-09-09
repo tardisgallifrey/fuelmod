@@ -26,7 +26,7 @@ public class ItemInit {
 
 
     //This registers our OIL object to ITEMS
-    public static final RegistryObject<Item> OIL = ITEMS.register("fuel",
+    public static final RegistryObject<Item> OIL = ITEMS.register("oil",
             () -> new FuelItem(new Item.Properties()
                     .tab(ModCreativeTab.instance), 3200));
 
